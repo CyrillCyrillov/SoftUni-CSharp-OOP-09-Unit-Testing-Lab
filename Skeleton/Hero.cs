@@ -1,4 +1,7 @@
-﻿public class Hero
+﻿namespace Skeleton
+{
+
+public class Hero
 {
     private string name;
     private int experience;
@@ -36,3 +39,6 @@
         }
     }
 }
+
+}
+

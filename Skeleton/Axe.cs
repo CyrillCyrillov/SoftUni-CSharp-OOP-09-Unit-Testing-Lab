@@ -1,5 +1,8 @@
 ﻿using System;
 
+namespace Skeleton
+{
+
 // Axe durability drop with 5 
 public class Axe
 {
@@ -33,3 +36,6 @@ public class Axe
         this.durabilityPoints -= 1;
     }
 }
+
+}
+
